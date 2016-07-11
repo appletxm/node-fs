@@ -1,0 +1,21 @@
+{
+  "name": "node-fs",
+  "version": "0.1.0",
+  "description": "just test the node fs module",
+  "scripts": {
+	  
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appletxm/node-fs"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "file system",
+    "nodejs"
+  ]
+}
